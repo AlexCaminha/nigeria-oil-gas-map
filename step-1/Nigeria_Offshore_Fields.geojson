@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6,
+          4.2
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 118",
+        "oil block licensee": "Total",
+        "oil block status": "Offshore licensed",
+        "oil field name": "AMENAM",
+        "status": "undeveloped",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 5.6,
+        "estimated Latitude": 4.2,
+        "zone": "Offshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4,
+          4.3
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 118",
+        "oil block licensee": "Total",
+        "oil block status": "Offshore licensed",
+        "oil field name": "BONGA",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 5.4,
+        "estimated Latitude": 4.3,
+        "zone": "Offshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2,
+          3.8
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 130",
+        "oil block licensee": "ExxonMobil",
+        "oil block status": "Offshore licensed",
+        "oil field name": "ERHA",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 6.2,
+        "estimated Latitude": 3.8,
+        "zone": "Offshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35,
+          3.75
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 130",
+        "oil block licensee": "ExxonMobil",
+        "oil block status": "Offshore licensed",
+        "oil field name": "USAN",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 6.35,
+        "estimated Latitude": 3.75,
+        "zone": "Offshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1,
+          3.5
+        ]
+      },
+      "properties": {
+        "oil block number": "OPL 245",
+        "oil block licensee": NaN,
+        "oil block status": "Offshore open",
+        "oil field name": "undeveloped_field_example",
+        "status": "undeveloped",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 8.1,
+        "estimated Latitude": 3.5,
+        "zone": "Offshore"
+      }
+    }
+  ]
+}

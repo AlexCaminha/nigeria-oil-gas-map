@@ -1,0 +1,404 @@
+oil block number,licensee,status,oil field name,developed/undeveloped,type,estimated Longitude,estimated Latitude
+OPL 301,,Onshore licensed,,,,3.05,6.45
+OPL 302,Alfred James,Onshore licensed,,,,3.4,6.42
+OPL 303,,Onshore open,,,,3.72,6.8
+OPL 304,,Onshore open,,,,4.0,6.8
+OPL 305,,Onshore open,,,,4.28,6.8
+OPL 306,,Onshore open,,,,4.55,6.8
+OPL 307,,Onshore open,,,,4.78,6.8
+OPL 308,,Onshore open,,,,3.92,6.55
+OPL 474,,Onshore open,,,,4.9,6.75
+OPL 201,,Onshore licensed,,,,5.9,6.6
+OPL 202,,Onshore licensed,,,,5.55,6.45
+OPL 203,,Onshore licensed,,,,5.8,6.42
+OPL 204,,Onshore licensed,,,,5.75,5.88
+OPL 205,Summit Oil,Onshore licensed,,,,6.38,5.9
+OPL 206,,Onshore open,,,,6.1,6.5
+OPL 901,,Onshore open,,,,6.65,6.65
+OPL 902,,Onshore open,,,,6.95,6.65
+OPL 903,,Onshore open,,,,7.48,6.42
+OPL 904,,Onshore open,,,,7.9,6.42
+OPL 905,,Onshore open,,,,8.25,6.62
+OPL 906,,Onshore open,,,,7.78,6.2
+OPL 907,,Onshore open,,,,8.42,6.42
+OPL 908,,Onshore open,,,,8.05,6.12
+OPL 909,,Onshore open,,,,8.45,6.12
+OPL 910,,Onshore open,,,,8.03,5.85
+OPL 911,,Onshore open,,,,8.28,5.85
+OPL 912,,Onshore open,,,,8.58,5.85
+OPL 913,,Onshore open,,,,8.35,5.55
+OPL 914,,Onshore open,,,,7.95,5.6
+OPL 915,,Onshore open,,,,6.42,6.3
+OPL 916,,Onshore licensed,,,,7.15,6.45
+OPL 917,,Onshore licensed,,,,7.18,6.18
+OPL 228,,Onshore open,,,,7.4,5.85
+OPL 135,,Onshore open,,,,6.78,5.78
+OPL 275,,Onshore open,,,,6.05,5.62
+OPL 235,,Onshore open,,,,7.35,5.15
+OPL 236,,Onshore open,,,,7.8,5.0
+OPL 234,,Onshore open,,,,6.9,5.05
+OPL 208,,Offshore licensed,,,,7.08,5.18
+OPL 231,,Onshore open,,,,8.12,5.0
+OPL 452,,Offshore licensed,,,,8.38,5.0
+OPL 276,,Offshore licensed,,,,8.12,4.9
+OPL 283,,Onshore licensed,,,,5.9,5.35
+OPL 277,,Onshore licensed,,,,6.88,5.28
+OPL 290,,Offshore licensed,,,,7.25,4.62
+OPL 289,,Offshore licensed,,,,7.0,4.42
+OPL 467,,Offshore licensed,,,,6.88,4.38
+OPL 471,,Offshore licensed,,,,6.1,4.42
+OPL 274,,Returned to NNPC,POLOGBENE,developed,Oil or Oil/Gas,5.82,5.52
+OPL 282,,Onshore licensed,,,,5.8,5.02
+OPL 312,,Offshore open,,,,2.82,5.22
+OPL 317,,Offshore open,,,,2.72,5.02
+OPL 313,,Offshore open,,,,3.55,5.12
+OPL 314,,Offshore open,,,,3.88,5.12
+OPL 315,,Offshore open,,,,4.22,5.05
+OPL 319,,Offshore open,,,,3.55,4.92
+OPL 321,,Offshore open,,,,3.88,4.92
+OPL 323,,Offshore open,,,,4.22,4.92
+OPL 325,,Offshore open,,,,3.72,4.72
+OPL 327,,Offshore open,,,,3.58,4.6
+OPL 241,,Offshore licensed,,,,4.18,5.38
+OPL 332,,Offshore licensed,,,,3.88,5.25
+OPL 454,,Offshore licensed,,,,4.38,5.55
+OPL 328,,Offshore open,,,,3.12,4.42
+OPL 329,,Offshore open,,,,3.12,4.22
+OPL 330,,Offshore open,,,,3.25,4.05
+OPL 331,,Offshore open,,,,3.55,4.05
+OPL 333,,Offshore open,,,,3.22,3.78
+OPL 334,,Offshore open,,,,3.58,3.78
+OPL 335,,Offshore open,,,,3.22,3.52
+OPL 336,,Offshore open,,,,3.58,3.52
+OPL 337,,Offshore open,,,,3.72,3.28
+OPL 338,,Offshore open,,,,4.05,3.28
+OPL 339,,Offshore open,,,,4.38,3.28
+OPL 340,,Offshore open,,,,4.72,3.28
+OPL 341,,Offshore open,,,,3.52,3.05
+OPL 342,,Offshore open,,,,3.88,3.05
+OPL 343,,Offshore open,,,,4.22,3.05
+OPL 344,,Offshore open,,,,4.55,3.05
+OPL 345,,Offshore open,,,,4.22,2.78
+OPL 346,,Offshore open,,,,4.58,2.78
+OPL 253,,Offshore open,,,,4.9,3.05
+OPL 254,,Offshore open,,,,3.92,2.78
+OPL 255,,Offshore open,,,,4.22,2.55
+OPL 261,,Offshore open,,,,4.88,2.78
+OPL 262,,Offshore open,,,,3.85,2.55
+OPL 264,,Offshore open,,,,4.22,2.52
+OPL 265,,Offshore open,,,,4.55,2.52
+OPL 266,,Offshore open,,,,4.9,2.52
+OPL 267,,Offshore open,,,,5.22,2.52
+OPL 268,,Offshore open,,,,3.52,2.35
+OPL 269,,Offshore open,,,,3.85,2.35
+OPL 270,,Offshore open,,,,4.22,2.35
+OPL 271,,Offshore open,,,,4.55,2.35
+OPL 272,,Offshore open,,,,4.88,2.35
+OPL 273,,Offshore open,,,,5.22,2.35
+OPL 259,,Offshore open,,,,5.55,2.38
+OPL 251,,Offshore open,,,,4.75,3.28
+OPL 252,,Offshore open,,,,4.12,3.28
+OPL 243,,Offshore open,,,,4.45,2.75
+OPL 258,,Offshore open,,,,7.15,2.72
+OPL 257,,Offshore open,,,,5.82,2.72
+OPL 310,,Offshore licensed,,,,3.42,5.42
+OPL 311,Sunlink,Offshore licensed,,,,3.72,5.45
+OPL 318,ConocoPhillips,Offshore licensed,,,,4.22,4.68
+OPL 320,Oranto,Offshore licensed,,,,3.72,4.42
+OPL 322,Shell,Offshore licensed,,,,3.72,4.05
+OPL 324,Petrobras,Offshore licensed,,,,4.22,3.75
+OPL 326,,Offshore licensed,,,,4.72,3.52
+OPL 248,Zebra Oil & Gas,Offshore licensed,,,,4.72,4.42
+OPL 249,Nigeria Oil & Gas,Offshore licensed,,,,4.72,3.75
+OPL 250,Chevron,Offshore licensed,,,,4.72,3.52
+OML 113,Yinka Folawiyo,Offshore licensed,Ukpokiri,undeveloped,Oil or Oil/Gas,3.52,5.48
+OML 125,Eni,Offshore licensed,,,,3.92,4.98
+OPL 209,ExxonMobil,Offshore licensed,ERHA,developed,Oil or Oil/Gas,4.38,4.82
+OPL 209,ExxonMobil,Offshore licensed,Bosi,undeveloped,Oil or Oil/Gas,4.3,4.78
+OML 118,Shell,Offshore licensed,BONGA,developed,Oil or Oil/Gas,4.88,4.32
+OML 118,Shell,Offshore licensed,Bonga NW,undeveloped,Oil or Oil/Gas,4.78,4.42
+OML 118,Shell,Offshore licensed,Bonga SW,undeveloped,Oil or Oil/Gas,4.82,4.22
+OML 116,Shell,Offshore licensed,Anyala,undeveloped,Oil or Oil/Gas,5.12,4.52
+OML 116,Shell,Offshore licensed,Madu,undeveloped,Oil or Oil/Gas,5.15,4.48
+OPL 213,Chevron,Offshore licensed,Aparo,undeveloped,Oil or Oil/Gas,4.92,4.05
+OPL 214,ExxonMobil,Offshore licensed,Boi,undeveloped,Oil or Oil/Gas,5.42,3.82
+OPL 215,Noreast Petroleum,Offshore licensed,,,,5.52,3.72
+OML 122,Peak,Offshore licensed,Bilati,undeveloped,Oil or Oil/Gas,5.05,4.22
+OML 122,Peak,Offshore licensed,Orabiri,undeveloped,Oil or Oil/Gas,5.1,4.18
+OML 88,Chevron,Offshore licensed,PENNINGTON,developed,Gas or Gas/Condensate,5.2,4.38
+OML 88,Chevron,Offshore licensed,MIDDLETON,developed,Gas or Gas/Condensate,5.25,4.35
+OML 88,Chevron,Offshore licensed,Nkele,undeveloped,Oil or Oil/Gas,5.28,4.4
+OML 88,Chevron,Offshore licensed,Chioni,undeveloped,Oil or Oil/Gas,5.22,4.32
+OML 88,Chevron,Offshore licensed,ERIBI,developed,Gas or Gas/Condensate,5.18,4.35
+OML 85,Chevron,Offshore licensed,Ato North,undeveloped,Oil or Oil/Gas,5.82,3.52
+OPL 263,,Offshore licensed,,,,5.3,4.18
+OML 127,Famfa Oil,Offshore licensed,AGBAMI,developed,Oil or Oil/Gas,5.93,3.22
+OML 127,Famfa Oil,Offshore licensed,EKOLI,developed,Oil or Oil/Gas,5.97,3.2
+OML 127,Famfa Oil,Offshore licensed,Ikija,undeveloped,Oil or Oil/Gas,5.88,3.25
+OML 128,Statoil,Offshore licensed,,,,5.78,3.35
+OML 130,South Atlantic Petroleum,Offshore licensed,Nnwa,undeveloped,Gas or Gas/Condensate,5.55,3.12
+OML 130,South Atlantic Petroleum,Offshore licensed,Doro,undeveloped,Gas or Gas/Condensate,5.6,3.1
+OML 130,South Atlantic Petroleum,Offshore licensed,Bolia,undeveloped,Oil or Oil/Gas,5.65,3.12
+OML 130,South Atlantic Petroleum,Offshore licensed,Chota,undeveloped,Oil or Oil/Gas,5.75,3.15
+OML 130,South Atlantic Petroleum,Offshore licensed,Preowei,undeveloped,Oil or Oil/Gas,5.78,3.12
+OML 130,South Atlantic Petroleum,Offshore licensed,Akpo,undeveloped,Oil or Oil/Gas,5.83,3.05
+OML 130,South Atlantic Petroleum,Offshore licensed,Egina,undeveloped,Oil or Oil/Gas,5.73,3.0
+OML 130,South Atlantic Petroleum,Offshore licensed,Sehki,undeveloped,Oil or Oil/Gas,5.45,3.18
+OML 130,South Atlantic Petroleum,Offshore licensed,Ngolo,undeveloped,Oil or Oil/Gas,5.62,3.2
+OML 130,South Atlantic Petroleum,Offshore licensed,Bilah,undeveloped,Oil or Oil/Gas,5.38,3.12
+OML 130,South Atlantic Petroleum,Offshore licensed,Ebitemi,undeveloped,Gas or Gas/Condensate,5.9,3.05
+OML 130,South Atlantic Petroleum,Offshore licensed,Kuro,undeveloped,Gas or Gas/Condensate,5.57,3.02
+OPL 247,Heritage Oil Corp.,Offshore licensed,,,,7.05,3.3
+OPL 244,Eni,Offshore licensed,,,,5.6,2.78
+OML 222,Total,Offshore licensed,Okpuk,undeveloped,Oil or Oil/Gas,7.95,3.52
+OML 223,Total,Offshore licensed,,,,7.62,3.52
+OPL 222,Total,Offshore licensed,,,,7.28,3.6
+OPL 256,Devon Energy,Offshore licensed,,,,5.88,2.45
+OPL 242,Devon Energy,Offshore licensed,,,,5.42,3.28
+OML 103,ConOil,Onshore licensed,OBE,developed,Oil or Oil/Gas,5.22,5.5
+OML 103,ConOil,Onshore licensed,EBISAN,developed,Oil or Oil/Gas,5.27,5.47
+OML 103,ConOil,Onshore licensed,BELLA,developed,Oil or Oil/Gas,5.3,5.47
+OML 103,ConOil,Onshore licensed,OMURO,developed,Oil or Oil/Gas,5.33,5.46
+OML 40,Shell,Onshore licensed,OPUAMA,developed,Oil or Oil/Gas,5.73,5.43
+OML 40,Shell,Onshore licensed,GBETIOKUN,developed,Oil or Oil/Gas,5.9,5.41
+OML 40,Shell,Onshore licensed,AROH,developed,Oil or Oil/Gas,5.82,5.43
+OML 95,Chevron,Onshore licensed,PARABE,developed,Oil or Oil/Gas,5.55,5.5
+OML 95,Chevron,Onshore licensed,MINA,developed,Oil or Oil/Gas,5.53,5.48
+OML 95,Chevron,Onshore licensed,Gbadogo,undeveloped,Oil or Oil/Gas,5.58,5.52
+OML 95,Chevron,Onshore licensed,Ebiya,undeveloped,Oil or Oil/Gas,5.47,5.55
+OML 110,Cavendish,Onshore licensed,,,,5.43,5.57
+OML 30,Chevron,Onshore licensed,MALU,developed,Oil or Oil/Gas,5.48,5.47
+OML 30,Chevron,Onshore licensed,OPOLO,developed,Oil or Oil/Gas,5.5,5.45
+OML 30,Chevron,Onshore licensed,UKPOKITI,developed,Oil or Oil/Gas,5.52,5.46
+OML 30,Chevron,Onshore licensed,IBAN,developed,Oil or Oil/Gas,5.54,5.48
+OML 30,Chevron,Onshore licensed,Ruta,undeveloped,Oil or Oil/Gas,5.52,5.48
+OML 30,Chevron,Onshore licensed,Azama,undeveloped,Oil or Oil/Gas,5.48,5.46
+OML 30,Chevron,Onshore licensed,Abo North,undeveloped,Oil or Oil/Gas,5.5,5.44
+OML 108,SEPCOL,Onshore licensed,,,,5.28,5.08
+OML 91,Chevron,Onshore licensed,Kama,undeveloped,Oil or Oil/Gas,5.28,5.05
+OML 89,Chevron,Onshore licensed,OFON,developed,Oil or Oil/Gas,5.3,5.02
+OML 89,Chevron,Onshore licensed,Obokun,undeveloped,Oil or Oil/Gas,5.32,4.98
+OML 96,Dubri,Onshore licensed,OVIA,developed,Oil or Oil/Gas,5.98,5.68
+OML 96,Dubri,Onshore licensed,GILLI GILLI,developed,Oil or Oil/Gas,5.92,5.63
+OML 96,Dubri,Onshore licensed,OKI,developed,Oil or Oil/Gas,5.97,5.63
+OML 111,NPDC,Onshore licensed,OREDO,developed,Oil or Oil/Gas,6.18,5.65
+OML 111,NPDC,Onshore licensed,OLOGBO,developed,Oil or Oil/Gas,6.15,5.68
+OML 111,NPDC,Onshore licensed,OGHAREFE,developed,Oil or Oil/Gas,6.22,5.62
+OML 98,PanOcean,Onshore licensed,OLOGBO,developed,Oil or Oil/Gas,6.18,5.7
+OML 98,PanOcean,Onshore licensed,OGHAREFE,developed,Oil or Oil/Gas,6.24,5.63
+OML 98,PanOcean,Onshore licensed,ASABORO SOUTH,developed,Oil or Oil/Gas,6.28,5.73
+OML 98,PanOcean,Onshore licensed,OREDO,developed,Oil or Oil/Gas,6.2,5.67
+OML 38,Shell,Onshore licensed,Oben North,undeveloped,Oil or Oil/Gas,6.32,5.77
+OML 38,Shell,Onshore licensed,Oben,undeveloped,Oil or Oil/Gas,6.35,5.75
+OML 4,Shell,Onshore licensed,OBEN NORTH,developed,Oil or Oil/Gas,6.38,5.78
+OML 34,Shell,Onshore licensed,KOKORI,developed,Oil or Oil/Gas,5.8,5.4
+OML 34,Shell,Onshore licensed,AFIESERE,developed,Oil or Oil/Gas,5.75,5.38
+OML 34,Shell,Onshore licensed,ERIEMU,developed,Oil or Oil/Gas,5.78,5.35
+OML 34,Shell,Onshore licensed,OWEH,developed,Oil or Oil/Gas,5.82,5.36
+OML 34,Shell,Onshore licensed,SAPELE,developed,Oil or Oil/Gas,5.87,5.42
+OML 34,Shell,Onshore licensed,AMUKPE,developed,Oil or Oil/Gas,5.83,5.43
+OML 35,Shell,Onshore licensed,OGHARA,developed,Oil or Oil/Gas,5.7,5.52
+OML 41,Shell,Onshore licensed,JATIJIM,developed,Oil or Oil/Gas,5.97,5.42
+OML 41,Shell,Onshore licensed,OBODO,developed,Oil or Oil/Gas,5.95,5.4
+OML 57,,Onshore licensed,UTONANA,developed,Oil or Oil/Gas,5.98,5.28
+OML 57,,Onshore licensed,JONES CREEK,developed,Oil or Oil/Gas,5.95,5.25
+OML 49,Chevron,Onshore licensed,DELTA,developed,Oil or Oil/Gas,5.88,5.3
+OML 49,Chevron,Onshore licensed,MEJO,developed,Oil or Oil/Gas,5.82,5.28
+OML 49,Chevron,Onshore licensed,GBOKODA,developed,Oil or Oil/Gas,5.8,5.25
+OML 49,Chevron,Onshore licensed,KITO,developed,Oil or Oil/Gas,5.88,5.22
+OML 49,Chevron,Onshore licensed,ABITEYE,developed,Oil or Oil/Gas,5.93,5.2
+OML 49,Chevron,Onshore licensed,TAPA,developed,Oil or Oil/Gas,5.78,5.22
+OML 49,Chevron,Onshore licensed,OPUEKEBA,developed,Oil or Oil/Gas,5.73,5.3
+OML 49,Chevron,Onshore licensed,BENIN RIVER,developed,Oil or Oil/Gas,5.72,5.28
+OML 49,Chevron,Onshore licensed,DIBI,developed,Oil or Oil/Gas,5.92,5.22
+OML 49,Chevron,Onshore licensed,ESCRAVOS BEACH,developed,Oil or Oil/Gas,5.18,5.4
+OML 49,Chevron,Onshore licensed,MAKARABA,developed,Oil or Oil/Gas,5.97,5.32
+OML 49,Chevron,Onshore licensed,ABIGBORODO,developed,Oil or Oil/Gas,5.98,5.35
+OML 49,Chevron,Onshore licensed,GAGNARA,developed,Oil or Oil/Gas,5.95,5.18
+OML 49,Chevron,Onshore licensed,EGWA,developed,Oil or Oil/Gas,5.97,5.17
+OML 43,Shell,Onshore licensed,AFIESERE,developed,Oil or Oil/Gas,5.85,5.1
+OML 43,Shell,Onshore licensed,AFREMO,developed,Oil or Oil/Gas,5.83,5.08
+OML 43,Shell,Onshore licensed,FORCADOS YOKRI,developed,Oil or Oil/Gas,5.8,5.05
+OML 43,Shell,Onshore licensed,MESAN,developed,Oil or Oil/Gas,5.88,5.03
+OML 43,Shell,Onshore licensed,MEFA,developed,Oil or Oil/Gas,5.8,5.1
+OML 90,Addax,Returned to NNPC,SHOKOLOKO,developed,Oil or Oil/Gas,6.68,4.52
+OML 90,Addax,Returned to NNPC,ASHA,developed,Oil or Oil/Gas,6.76,4.5
+OML 90,Addax,Returned to NNPC,OKWORI,developed,Oil or Oil/Gas,6.8,4.48
+OML 90,Addax,Returned to NNPC,NDA,developed,Oil or Oil/Gas,6.77,4.47
+OPL 220,Addax,Returned to NNPC,Odum,undeveloped,Oil or Oil/Gas,6.62,4.42
+OPL 220,Addax,Returned to NNPC,Okirima,undeveloped,Gas or Gas/Condensate,6.55,4.43
+OPL 220,Addax,Returned to NNPC,Asanga,undeveloped,Oil or Oil/Gas,6.58,4.4
+OPL 226,Addax,Returned to NNPC,Bala,undeveloped,Oil or Oil/Gas,6.47,4.5
+OPL 226,Addax,Returned to NNPC,HJS,undeveloped,Gas or Gas/Condensate,6.45,4.48
+OPL 238,Sunlink,Returned to NNPC,,,,6.52,4.55
+OML 124,Addax,Returned to NNPC,OSSU,developed,Oil or Oil/Gas,7.52,5.02
+OML 124,Addax,Returned to NNPC,JISIKE,developed,Oil or Oil/Gas,7.45,5.05
+OML 123,Addax,Returned to NNPC,AKAM,developed,Oil or Oil/Gas,7.8,4.9
+OML 123,Addax,Returned to NNPC,UKPAM,developed,Oil or Oil/Gas,7.85,4.88
+OML 26,Shell,Onshore licensed,OLOMORO,developed,Oil or Oil/Gas,5.87,5.1
+OML 26,Shell,Onshore licensed,ADIBAWA,developed,Oil or Oil/Gas,5.85,5.12
+OML 26,Shell,Onshore licensed,ADIBAWA N.E.,developed,Oil or Oil/Gas,5.88,5.14
+OML 26,Shell,Onshore licensed,ANEIZE,developed,Oil or Oil/Gas,5.9,5.18
+OML 26,Shell,Onshore licensed,OKPAI,developed,Oil or Oil/Gas,5.88,5.22
+OML 61,Shell,Onshore licensed,UZERE,developed,Oil or Oil/Gas,5.92,5.05
+OML 61,Shell,Onshore licensed,UZERE EAST,developed,Oil or Oil/Gas,5.95,5.07
+OML 61,Shell,Onshore licensed,OLOMORO,developed,Oil or Oil/Gas,5.88,5.05
+OML 29,Shell,Onshore licensed,OLOIBIRI,developed,Oil or Oil/Gas,6.15,4.92
+OML 29,Shell,Onshore licensed,OKOROBA,developed,Oil or Oil/Gas,6.18,4.97
+OML 29,Shell,Onshore licensed,OBAMA,developed,Oil or Oil/Gas,6.12,4.9
+OML 29,Shell,Onshore licensed,KOLO CREEK,developed,Oil or Oil/Gas,6.2,4.95
+OML 54,Chevron,Onshore licensed,KOLO CREEK,developed,Oil or Oil/Gas,6.22,4.92
+OML 28,Shell,Onshore licensed,SANTA BARBARA,developed,Oil or Oil/Gas,6.08,4.85
+OML 28,Shell,Onshore licensed,BELEMA,developed,Oil or Oil/Gas,6.05,4.78
+OML 28,Shell,Onshore licensed,NEMBE CREEK,developed,Oil or Oil/Gas,6.12,4.8
+OML 33,Shell,Onshore licensed,NUN RIVER,developed,Oil or Oil/Gas,6.3,4.88
+OML 33,Shell,Onshore licensed,OGBAINBIRI,developed,Oil or Oil/Gas,6.35,4.82
+OML 33,Shell,Onshore licensed,OLOIBIRI,developed,Oil or Oil/Gas,6.17,4.88
+OML 33,Shell,Onshore licensed,DIBU CREEK,developed,Oil or Oil/Gas,6.38,4.88
+OML 65,NPDC,Onshore licensed,NEMBE CREEK,developed,Oil or Oil/Gas,6.43,4.78
+OML 65,NPDC,Onshore licensed,ODEAMA CREEK,developed,Oil or Oil/Gas,6.45,4.72
+OML 25,Shell,Onshore licensed,BELEMA,developed,Oil or Oil/Gas,6.03,4.8
+OML 25,Shell,Onshore licensed,RUMUEKPE,developed,Oil or Oil/Gas,6.97,4.88
+OML 32,Shell,Onshore licensed,TAYLOR CREEK,developed,Oil or Oil/Gas,6.45,5.05
+OML 32,Shell,Onshore licensed,OBAGI,developed,Oil or Oil/Gas,6.4,5.0
+OML 32,Shell,Onshore licensed,SAMABRI,developed,Oil or Oil/Gas,6.52,4.98
+OML 31,Shell,Onshore licensed,TAYLOR CREEK,developed,Oil or Oil/Gas,6.52,5.12
+OML 31,Shell,Onshore licensed,ADIBAWA,developed,Oil or Oil/Gas,6.48,5.15
+OML 31,Shell,Onshore licensed,ZARAMA,developed,Oil or Oil/Gas,6.58,5.22
+OML 22,Shell,Onshore licensed,ZARAMA,developed,Oil or Oil/Gas,6.65,5.22
+OML 22,Shell,Onshore licensed,TELEBOU,developed,Oil or Oil/Gas,6.6,5.18
+OML 22,Shell,Onshore licensed,ENWE,developed,Oil or Oil/Gas,6.68,5.18
+OML 63,Shell,Onshore licensed,GBARAN,developed,Oil or Oil/Gas,6.48,5.28
+OML 63,Shell,Onshore licensed,NUN RIVER,developed,Oil or Oil/Gas,6.4,5.22
+OML 21,Shell,Onshore licensed,OLO,developed,Oil or Oil/Gas,6.88,5.23
+OML 23,Shell,Onshore licensed,OBAGI,developed,Oil or Oil/Gas,6.75,5.05
+OML 23,Shell,Onshore licensed,OKOROBA,developed,Oil or Oil/Gas,6.78,5.02
+OML 46,Shell,Onshore licensed,TUNU,developed,Oil or Oil/Gas,5.72,5.05
+OML 46,Shell,Onshore licensed,CLOUGH CREEK,developed,Oil or Oil/Gas,5.78,5.0
+OML 46,Shell,Onshore licensed,AZUZUAMA,developed,Oil or Oil/Gas,5.73,4.98
+OML 46,Shell,Onshore licensed,EJA,undeveloped,Oil or Oil/Gas,5.65,5.08
+OML 46,Shell,Onshore licensed,EA,undeveloped,Oil or Oil/Gas,5.62,5.05
+OML 62,Eni,Onshore licensed,OGBOTORO,developed,Oil or Oil/Gas,5.62,5.18
+OML 62,Eni,Onshore licensed,BENISEDE,developed,Oil or Oil/Gas,5.58,5.2
+OML 62,Eni,Onshore licensed,ANGALALEI,developed,Oil or Oil/Gas,5.55,5.22
+OML 62,Eni,Onshore licensed,OPUKUSHI,developed,Oil or Oil/Gas,5.52,5.2
+OML 62,Eni,Onshore licensed,AJAITION,developed,Oil or Oil/Gas,5.5,5.18
+OML 59,ConOil,Onshore licensed,BENBOYE,developed,Oil or Oil/Gas,5.92,4.88
+OML 59,ConOil,Onshore licensed,Ewe,undeveloped,Oil or Oil/Gas,5.88,4.85
+OML 17,Shell,Onshore licensed,OTAMINI,developed,Oil or Oil/Gas,7.08,5.12
+OML 17,Shell,Onshore licensed,UMUECHEM,developed,Oil or Oil/Gas,7.03,5.05
+OML 17,Shell,Onshore licensed,AGBADA,developed,Oil or Oil/Gas,7.0,5.08
+OML 17,Shell,Onshore licensed,NKALI,developed,Oil or Oil/Gas,7.07,5.08
+OML 17,Shell,Onshore licensed,OBELE,developed,Oil or Oil/Gas,6.98,5.15
+OML 17,Shell,Onshore licensed,OLO,developed,Oil or Oil/Gas,6.97,5.18
+OML 17,Shell,Onshore licensed,OBIGBO NORTH,developed,Oil or Oil/Gas,7.05,5.0
+OML 16,Shell,Onshore licensed,AHIA,developed,Gas or Gas/Condensate,7.15,5.08
+OML 16,Shell,Onshore licensed,ASSA,developed,Oil or Oil/Gas,7.12,5.12
+OML 11,Shell,Onshore licensed,IMO RIVER,developed,Oil or Oil/Gas,7.22,5.02
+OML 11,Shell,Onshore licensed,OZA,developed,Gas or Gas/Condensate,7.25,5.0
+OML 11,Shell,Onshore licensed,OBIGBO NORTH,developed,Oil or Oil/Gas,7.2,4.98
+OML 52,Shell,Onshore licensed,OPOBO SOUTH,developed,Oil or Oil/Gas,7.32,4.82
+OML 51,Chevron,Onshore licensed,,,,7.2,4.85
+OML 13,Shell,Onshore licensed,UTAPATE SOUTH,developed,Oil or Oil/Gas,7.52,4.95
+OML 13,Shell,Onshore licensed,AFAM,developed,Oil or Oil/Gas,7.15,4.8
+OML 13,Shell,Onshore licensed,AFAM UMU,developed,Oil or Oil/Gas,7.17,4.82
+OML 13,Shell,Onshore licensed,OBEAKPU,developed,Oil or Oil/Gas,7.18,4.8
+OML 13,Shell,Onshore licensed,BOMU,developed,Oil or Oil/Gas,7.08,4.78
+OML 13,Shell,Onshore licensed,KOROKORO,developed,Oil or Oil/Gas,7.12,4.8
+OML 13,Shell,Onshore licensed,YORLA,undeveloped,Oil or Oil/Gas,7.1,4.75
+OML 13,Shell,Onshore licensed,YORLA SOUTH,undeveloped,Oil or Oil/Gas,7.08,4.73
+OML 13,Shell,Onshore licensed,BOSO WEST,undeveloped,Oil or Oil/Gas,7.05,4.7
+OML 53,Chevron,Onshore licensed,OJISIKE,developed,Oil or Oil/Gas,7.55,5.12
+OML 53,Chevron,Onshore licensed,EGBEMA,developed,Gas or Gas/Condensate,7.48,5.08
+OML 67,ExxonMobil,Onshore licensed,ISOBO,developed,Oil or Oil/Gas,7.97,4.78
+OML 67,ExxonMobil,Onshore licensed,MFEM,developed,Oil or Oil/Gas,8.0,4.76
+OML 67,ExxonMobil,Onshore licensed,UNAN,developed,Oil or Oil/Gas,8.02,4.8
+OML 67,ExxonMobil,Onshore licensed,UBIT,developed,Oil or Oil/Gas,8.05,4.78
+OML 67,ExxonMobil,Onshore licensed,IYAK,developed,Oil or Oil/Gas,8.03,4.72
+OML 67,ExxonMobil,Onshore licensed,IYAK SE,developed,Oil or Oil/Gas,8.05,4.7
+OML 67,ExxonMobil,Onshore licensed,EKU,developed,Oil or Oil/Gas,8.0,4.72
+OML 67,ExxonMobil,Onshore licensed,MIMBI,developed,Oil or Oil/Gas,8.08,4.68
+OML 67,ExxonMobil,Onshore licensed,EBODO,developed,Oil or Oil/Gas,7.97,4.65
+OML 67,ExxonMobil,Onshore licensed,JATIJIM,developed,Oil or Oil/Gas,8.1,4.75
+OML 67,ExxonMobil,Onshore licensed,UTUE,developed,Oil or Oil/Gas,8.08,4.63
+OML 69,ExxonMobil,Offshore licensed,INANGA,developed,Oil or Oil/Gas,7.82,4.68
+OML 69,ExxonMobil,Offshore licensed,IDOHO,developed,Oil or Oil/Gas,7.85,4.65
+OML 68,ExxonMobil,Offshore licensed,IKIKE,developed,Oil or Oil/Gas,7.78,4.62
+OML 70,ExxonMobil,Offshore licensed,USARI,developed,Oil or Oil/Gas,7.55,4.48
+OML 70,ExxonMobil,Offshore licensed,EKPE,developed,Oil or Oil/Gas,7.52,4.52
+OML 70,ExxonMobil,Offshore licensed,ADUA,developed,Oil or Oil/Gas,7.58,4.45
+OML 70,ExxonMobil,Offshore licensed,ENANG,developed,Oil or Oil/Gas,7.62,4.48
+OML 104,ExxonMobil,Onshore licensed,EDIKAN,developed,Oil or Oil/Gas,7.85,4.38
+OML 104,ExxonMobil,Onshore licensed,ARAWA,developed,Oil or Oil/Gas,7.88,4.42
+OML 100,Total,Onshore licensed,ODODIU,developed,Oil or Oil/Gas,8.05,4.38
+OML 100,Total,Onshore licensed,AFIA,developed,Oil or Oil/Gas,8.02,4.35
+OML 100,Total,Onshore licensed,IME,developed,Oil or Oil/Gas,8.08,4.35
+OML 100,Total,Onshore licensed,EKANGA,developed,Oil or Oil/Gas,8.05,4.3
+OML 100,Total,Onshore licensed,NKARIKA,developed,Oil or Oil/Gas,8.08,4.27
+OML 102,Total,Onshore licensed,OFON,developed,Oil or Oil/Gas,8.12,4.42
+OML 102,Total,Onshore licensed,EDOP,developed,Oil or Oil/Gas,8.1,4.38
+OML 102,Total,Onshore licensed,ASASA,developed,Oil or Oil/Gas,8.08,4.45
+OML 102,Total,Onshore licensed,ASABO,developed,Oil or Oil/Gas,8.07,4.48
+OML 71,Shell,Onshore licensed,YOHO,developed,Oil or Oil/Gas,7.47,4.42
+OML 71,Shell,Onshore licensed,EDIKAN,developed,Oil or Oil/Gas,7.52,4.38
+OML 115,Oriental,Offshore licensed,,,,8.05,4.22
+OML 119,Eni,Offshore licensed,OKONO,developed,Oil or Oil/Gas,7.7,4.22
+OML 99,Total,Offshore licensed,,,,7.72,4.35
+OML 221,Total,Offshore licensed,ADAKA,developed,Oil or Oil/Gas,7.78,4.25
+OML 77,Emerald,Offshore licensed,,,,6.35,4.32
+OML 83,Chevron,Offshore licensed,,,,6.25,4.15
+OML 74,Shell,Onshore licensed,,,,6.7,4.32
+OML 72,Shell,Onshore licensed,,,,6.88,4.32
+OML 86,Chevron,Offshore licensed,NORTH APOI,developed,Oil or Oil/Gas,6.08,4.42
+OML 86,Chevron,Offshore licensed,FUNIWA,developed,Oil or Oil/Gas,6.05,4.38
+OML 86,Chevron,Offshore licensed,SENGANA,developed,Oil or Oil/Gas,6.02,4.35
+OML 79,Shell,Onshore licensed,Egbelike,undeveloped,Gas or Gas/Condensate,5.3,4.92
+OPL 458,ConOil,Onshore licensed,Agge,undeveloped,Oil or Oil/Gas,4.82,5.0
+OPL 458,ConOil,Onshore licensed,Erukuku,undeveloped,Gas or Gas/Condensate,4.85,4.98
+OPL 79,Shell,Onshore licensed,EGBELIKE,developed,Gas or Gas/Condensate,5.28,4.92
+OPL 79,Shell,Onshore licensed,Oma,undeveloped,Oil or Oil/Gas,5.32,4.88
+OML 114,Moni Pulo,Offshore licensed,,,,8.32,5.18
+OML 129,Shell,Offshore licensed,,,,6.42,4.12
+OML 219,Shell,Onshore licensed,,,,6.5,4.18
+OML 120,Allied,Offshore licensed,Ewo,undeveloped,Oil or Oil/Gas,4.78,4.82
+OML 120,Allied,Offshore licensed,Dyo,undeveloped,Oil or Oil/Gas,4.75,4.78
+OML 121,Allied,Offshore licensed,,,,4.68,4.52
+OML 112,Arms,Offshore licensed,,,,7.32,4.68
+OML 126,,Offshore licensed,Usan,undeveloped,Oil or Oil/Gas,7.52,3.55
+OML 126,,Offshore licensed,Ukot,undeveloped,Oil or Oil/Gas,7.55,3.52
+OPL 211,Eni,Offshore licensed,Engule,undeveloped,Oil or Oil/Gas,4.68,4.88
+OPL 211,Eni,Offshore licensed,Enyife,undeveloped,Oil or Oil/Gas,4.72,4.85
+OML 13,Shell,Onshore licensed,TAI,developed,Oil or Oil/Gas,7.18,4.72
+OML 13,Shell,Onshore licensed,ONNE,developed,Oil or Oil/Gas,7.2,4.75
+OML 13,Shell,Onshore licensed,AKUKU,developed,Oil or Oil/Gas,7.22,4.72
+OML 13,Shell,Onshore licensed,BONNY,developed,Oil or Oil/Gas,7.18,4.45
+OML 13,Shell,Onshore licensed,CAWTHORNE CHANNEL,developed,Oil or Oil/Gas,7.05,4.55
+OML 18,Shell,Onshore licensed,EKULAMA,developed,Oil or Oil/Gas,6.6,4.82
+OML 18,Shell,Onshore licensed,KRAKAMA,developed,Oil or Oil/Gas,6.62,4.78
+OML 18,Shell,Onshore licensed,AWOBA,developed,Oil or Oil/Gas,6.58,4.82
+OML 11,Shell,Onshore licensed,APARA,developed,Oil or Oil/Gas,7.0,5.02
+OML 11,Shell,Onshore licensed,ALAKIRI,developed,Oil or Oil/Gas,7.02,4.98
+OML 11,Shell,Onshore licensed,ASARITORU,developed,Oil or Oil/Gas,6.98,5.0
+OML 23,Shell,Onshore licensed,RUMUEKPE,developed,Oil or Oil/Gas,6.97,4.88
+OML 23,Shell,Onshore licensed,DIEBU CREEK,developed,Oil or Oil/Gas,6.9,4.85
+OML 23,Shell,Onshore licensed,PIRIGBENE,developed,Oil or Oil/Gas,6.87,4.82
+OML 23,Shell,Onshore licensed,TERIDABA,developed,Oil or Oil/Gas,6.82,4.78
+OML 24,Chevron,Onshore licensed,INDA,developed,Oil or Oil/Gas,6.72,4.52
+OML 24,Chevron,Onshore licensed,MAKARABA,developed,Oil or Oil/Gas,6.78,4.55
+OML 24,Chevron,Onshore licensed,BATAN,developed,Oil or Oil/Gas,6.05,5.1
+OML 24,Chevron,Onshore licensed,WARRI RIVER,developed,Oil or Oil/Gas,5.97,5.15
+OML 24,Chevron,Onshore licensed,UGHELLI WEST,developed,Oil or Oil/Gas,5.9,5.32
+OML 24,Chevron,Onshore licensed,UGHELLI EAST,developed,Oil or Oil/Gas,5.93,5.32
+OPL 200,,Onshore licensed,ANEIZE,developed,Oil or Oil/Gas,5.92,5.25
+OPL 200,,Onshore licensed,OKPAI,developed,Oil or Oil/Gas,5.9,5.2
+OPL 200,,Onshore licensed,ASHAKA,developed,Oil or Oil/Gas,5.88,5.18
+OML 86,Chevron,Offshore licensed,IKUBULO,undeveloped,Oil or Oil/Gas,6.12,4.35
+OML 86,Chevron,Offshore licensed,Ma,undeveloped,Oil or Oil/Gas,6.15,4.38
+OML 77,Emerald,Offshore licensed,Hobobo,undeveloped,Oil or Oil/Gas,6.4,4.4
+OPL 456,ConOil,Onshore licensed,,,,5.22,4.8
+OML 66,NPDC,Onshore licensed,ODEAMA CREEK,developed,Oil or Oil/Gas,6.55,4.72
+OPL 240,Nexen,Onshore licensed,,,,5.15,4.98
+OML 108,SEPCOL,Onshore licensed,OKPAI,developed,Oil or Oil/Gas,5.25,4.95
+OML 87,Oando,Onshore licensed,,,,5.12,5.02
+OPL 229,Emerald,Onshore licensed,,,,6.35,4.52
+OML 73,Shell,Onshore licensed,,,,5.8,4.75

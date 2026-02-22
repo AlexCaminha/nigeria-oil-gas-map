@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7,
+          5.4
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 69",
+        "oil block licensee": "NPDC",
+        "oil block status": "Onshore licensed",
+        "oil field name": "SAGHARA",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 6.7,
+        "estimated Latitude": 5.4,
+        "zone": "Onshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85,
+          5.45
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 69",
+        "oil block licensee": "NPDC",
+        "oil block status": "Onshore licensed",
+        "oil field name": "UMUECHEM",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 6.85,
+        "estimated Latitude": 5.45,
+        "zone": "Onshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.05,
+          5.48
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 69",
+        "oil block licensee": "NPDC",
+        "oil block status": "Onshore licensed",
+        "oil field name": "OBIGBO",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 7.05,
+        "estimated Latitude": 5.48,
+        "zone": "Onshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          4.95
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 30",
+        "oil block licensee": "Shell",
+        "oil block status": "Onshore licensed",
+        "oil field name": "AFAM",
+        "status": "developed",
+        "type": "Gas or Gas/Condensate",
+        "estimated Longitude": 7.3,
+        "estimated Latitude": 4.95,
+        "zone": "Onshore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55,
+          5.1
+        ]
+      },
+      "properties": {
+        "oil block number": "OML 30",
+        "oil block licensee": "Shell",
+        "oil block status": "Onshore licensed",
+        "oil field name": "KOROKORO",
+        "status": "developed",
+        "type": "Oil or Oil/Gas",
+        "estimated Longitude": 6.55,
+        "estimated Latitude": 5.1,
+        "zone": "Onshore"
+      }
+    }
+  ]
+}

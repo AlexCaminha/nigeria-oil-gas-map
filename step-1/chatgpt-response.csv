@@ -1,0 +1,11 @@
+oil block number,oil block licensee,oil block status,oil field name,status,type,estimated Longitude,estimated Latitude
+OML 69,NPDC,Onshore licensed,SAGHARA,developed,Oil or Oil/Gas,6.7,5.4
+OML 69,NPDC,Onshore licensed,UMUECHEM,developed,Oil or Oil/Gas,6.85,5.45
+OML 69,NPDC,Onshore licensed,OBIGBO,developed,Oil or Oil/Gas,7.05,5.48
+OML 30,Shell,Onshore licensed,AFAM,developed,Gas or Gas/Condensate,7.3,4.95
+OML 30,Shell,Onshore licensed,KOROKORO,developed,Oil or Oil/Gas,6.55,5.1
+OML 118,Total,Offshore licensed,AMENAM,undeveloped,Oil or Oil/Gas,5.6,4.2
+OML 118,Total,Offshore licensed,BONGA,developed,Oil or Oil/Gas,5.4,4.3
+OML 130,ExxonMobil,Offshore licensed,ERHA,developed,Oil or Oil/Gas,6.2,3.8
+OML 130,ExxonMobil,Offshore licensed,USAN,developed,Oil or Oil/Gas,6.35,3.75
+OPL 245,,Offshore open,undeveloped_field_example,undeveloped,Oil or Oil/Gas,8.1,3.5
