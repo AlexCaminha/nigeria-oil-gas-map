@@ -36,4 +36,6 @@ Unsuccessful in Think Deeper mode. Useless.
 
 ## Next step
 
-[TODO]
+The PDF is 100% vector (2,846 drawing paths + 783 text labels, zero raster images) using World Equidistant Cylindrical projection. Vector extraction yields precise GeoJSON with classified polygons and geo-referenced labels.
+
+[Step 2 - Extract vector data as GeoJSON](./step-2/extract_map.ipynb)
